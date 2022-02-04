@@ -1,0 +1,36 @@
+{
+  "person": {
+    "structure": ["id", "name", "lastName", "age"],
+    "data": [
+      {
+        "id": 1,
+        "name": "Maher",
+        "lastName": "unlocker",
+        "age": 15,
+        "subRows": [
+          {
+            "id": 2,
+            "name": "Maher",
+            "lastName": "unlocker",
+            "age": 15,
+            "subRows": []
+          },
+          {
+            "id": 3,
+            "name": "Maher",
+            "lastName": "unlocker",
+            "age": 15,
+            "subRows": []
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Maher",
+        "lastName": "unlocker",
+        "age": 15,
+        "subRows": []
+      }
+    ]
+  }
+}
